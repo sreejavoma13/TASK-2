@@ -1,5 +1,5 @@
 ![conflict](<Screenshot (5).png>)
-![Resolve Conflict](<Screenshot (6).png>)
+![Resolved Conflict](<Screenshot (6).png>)
 <h3>Detailed Description of Resolving Merge Conflicts</h3>
 Two branches 
 1.feature/add-content
